@@ -22,6 +22,7 @@ Testing the User Experience and Streaming.
 # MODULE SPLITUP
 
 1)Building a desktop application-Gayethiri.R.S
+   
    created a desktop application called college management in visual basic.It contains all the student and the faculty details of college management.created a database in ms access.
 
 2)creating an appstream image-Marry mettilda.S
