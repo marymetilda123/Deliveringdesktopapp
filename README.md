@@ -25,5 +25,7 @@ Testing the User Experience and Streaming.
    created a desktop application called college management in visual basic.It contains all the student and the faculty details of college management.created a database in ms access.
 
 2)creating an appstream image-Marry mettilda.S
+
 3)Creating network resources-Inba.M
+
 4)Testing user experience-done by all
