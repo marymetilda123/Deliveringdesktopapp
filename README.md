@@ -8,18 +8,6 @@ Scalability
 It enables you to accommodate larger workloads without disruption of existing infrastructure
 
 # MODULE SPLITUP
-Module 1:
-Creating Network Resources and appsteam image builder
-Module 2:
-Connect to the image builder and install the app 
-Module 3:
-create AppStream Image.
-Module 4:
-Provision a fleet and Appstream Stack and Manage Users.
-Module 5:
-Testing the User Experience and Streaming.
-
-# MODULE SPLITUP
 1)Building a desktop application-Gayethiri.R.S
 2)2)creating an appstream image-Marry mettilda.S
 3)3)Creating network resources-Inba.M
