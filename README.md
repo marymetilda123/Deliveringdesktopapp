@@ -7,11 +7,20 @@ Installation and configuration of applications on AppStream and stream the appli
 Scalability
 It enables you to accommodate larger workloads without disruption of existing infrastructure
 
+# Existing system
+The desktop applications can be shared to the browser. This applications will be saved in the server. The assurance of secure usage of applications cannot be given in this system.  
+
 # MODULE SPLITUP
 1)Building a desktop application-Gayethiri.R.S
 2)2)creating an appstream image-Marry mettilda.S
 3)3)Creating network resources-Inba.M
 4)4)Testing user experience-done by all
+
+# Future Enhancements
+The datas will be more securely shared to browser without any server problems.
+
+The shared applications,datas can be secured in VPC services and will be available.
+
 
 # TASK SPLITUP
 
