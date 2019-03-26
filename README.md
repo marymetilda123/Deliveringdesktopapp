@@ -20,13 +20,28 @@ Module 5:
 Testing the User Experience and Streaming.
 
 # MODULE SPLITUP
+1)Building a desktop application-Gayethiri.R.S
+2)2)creating an appstream image-Marry mettilda.S
+3)3)Creating network resources-Inba.M
+4)4)Testing user experience-done by all
+
+# TASK SPLITUP
 
 1)Building a desktop application-Gayethiri.R.S
    
    created a desktop application called college management in visual basic.It contains all the student and the faculty details of college management.created a database in ms access.
 
 2)creating an appstream image-Marry mettilda.S
+creating Amazon virtual private cloud (VPC) and other network resources required for AppStream 2.0 environment.
+Template in AWS CloudFormation to automatically create and configure the necessary network resources. 
+creating stacks,vpc,subnets
 
 3)Creating network resources-Inba.M
 
+creating Amazon virtual private cloud (VPC) and other network resources required for AppStream 2.0 environment.
+Template in AWS CloudFormation to automatically create and configure the necessary network resources. 
+creating stacks,vpc,subnets
+
 4)Testing user experience-done by all
+
+# project completion status: 95
